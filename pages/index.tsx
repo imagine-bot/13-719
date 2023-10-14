@@ -20,7 +20,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
+            Byeeeee{' '}
             <Image
               src="/logo.png"
               alt="Vercel Logo"
